@@ -1,6 +1,6 @@
 ### Hi frens 👋
 
-- 🔭 Full time DevOps engineer, part time honours student
+- 🔭 Full time Automation engineer, part time honours student
 - 🌱 Currently learning signal processing and ray marching
 - 💬 Ask me about my NxC DJ mixes (🌸大卫 罗斯🌸 on Soundcloud)
 - 📫 Catch me @ blaise.s.saunders(at)gmail.com
