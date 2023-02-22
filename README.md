@@ -1,7 +1,7 @@
-### Hi frens 👋
+### Hi friends 👋
 
 - 🔭 Full time Automation engineer
-- 🌱 Currently learning signal processing and ray marching
+- 🌱 Currently learning signal processing and DIY PCB manufacturing
 - 💬 Ask me about my NxC DJ mixes (🌸大卫 罗斯🌸 on Soundcloud)
 - 📫 Catch me @ blaise.s.saunders(at)gmail.com
 - 😄 Pronouns: He/Him/They
